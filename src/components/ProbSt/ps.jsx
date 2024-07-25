@@ -1,7 +1,11 @@
 import React from "react";
 import "./ps.css";
+import Navbar from '../Navbar/nav';
 const ProblemStatement = () => {
     return (
+        <>
+        <Navbar />
+
         <div className="Probst">
             <div className="content">
         <div class="containerp mt-3">
@@ -76,6 +80,7 @@ const ProblemStatement = () => {
         </div>
         </div>
         </div>
+        </>
     );
 };
 
