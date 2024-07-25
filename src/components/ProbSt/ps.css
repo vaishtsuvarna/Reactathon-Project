@@ -1,8 +1,4 @@
-html, body{
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
+
 
 .Probst{
     min-height: 100vh;
@@ -20,6 +16,7 @@ html, body{
     padding: 40px;
     margin: 40px, auto;
     font-family: Arial, sans-serif;
+    color: orangered;
 }
   .container h1 {
     margin-bottom: 40px;
