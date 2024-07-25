@@ -1,0 +1,55 @@
+.Signup{
+    height: 100vh; 
+    margin: 0;
+    padding: 50px, 0;
+    background: url("../images/bg3.jpg") center/cover no-repeat;
+    background-repeat: no-repeat;
+  }
+  .container {
+    width: 100%;
+    padding-top: 50px;
+}
+
+.addUser{
+    max-width: 400px;
+    margin:0px 100px;
+    width: 100%;
+    padding: 40px;
+    box-shadow:1px 1px 8px rgba(0, 0, 0, 0.65) ;
+}
+  
+.bg-orange {
+    background-color: rgb(44, 43, 45);
+}
+.addUserForm .inputGroup{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.addUserForm .inputGroup label{
+    margin-top: 10px;
+}
+.addUserForm .inputGroup input{
+    margin-top: 5px ;
+    padding:5px ;
+}
+
+.addUser .btn.btn-success{
+    background-color: #522D6D;
+}
+.Login .btn.btn-primary{
+    background-color: #522D6D;;
+}
+.addUser h3{
+    color:black ;
+    text-shadow:1px 1px 2px rgba(0, 0, 0, 0.7) ;
+}
+.orange-dot {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-color: rgb(255, 77, 0);
+    border-radius: 50%;
+    margin-left: 10px;
+  }
+  

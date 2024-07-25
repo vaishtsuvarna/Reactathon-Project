@@ -1,0 +1,28 @@
+.nav-btn{
+    margin-right: 2rem;
+    
+}
+.navbar .btn-outline-success{
+    margin:0.4rem 1rem;
+}
+.navbar .btn-outline-success a{
+    /* border-color: #6a0dad;  */
+    color: #6a0dad; 
+    text-decoration: none;
+}
+.navbar .btn-outline-success a:hover{
+    /* border-color: #6a0dad;  */
+    color:black; 
+    text-decoration: none;
+}
+
+.navbar .btn-outline-success:hover {
+    background-color: #6a0dad; 
+    border-color: #6a0dad; 
+    text-decoration: none;
+}
+
+.nav-btn .btn{
+    /* text-decoration: none; */
+    border-color:#6a0dad;
+}
